@@ -3,7 +3,7 @@
 A Flutter app to showcase Multi theme Demo.
 
 # Demo
-<img height="480px" src="https://github.com/flutter-devs/Flutter_Bakery_App_Demo/blob/cookies_app/screens/demo.gif">
+<img height="480px" src="https://github.com/flutter-devs/flutter_multitheme_demo/blob/flutter_multitheme/screens/demo.gif">
 
 
 
